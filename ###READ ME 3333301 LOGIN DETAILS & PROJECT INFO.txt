@@ -1,0 +1,32 @@
+**Database Name: pharmacyms**
+DEVELOPED BY 
+YARED ABERA  UGR/17780/11
+YARED ABATE UGR/17779/11
+TESFAYE 
+EDEN MEKONEN
+EPHREM
+
+GROUP PROJECT FOR SOFTWARE REQ
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+
+**Manager Login Details**
+
+Username: manager
+Password: password
+
+**Pharmacist Login Details**
+
+Username: pharmacist
+Password: password
+
+**Cashier Login Details**
+
+Username: cashier
+Password: password
